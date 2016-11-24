@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:9:1-49:12
+	xmlns:android
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:9:11-69
+	package
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:13:22-76
+application
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:15:5-47:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.android.support/design/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:18:9-43
+	android:theme
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:16:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:21:9-23:52
+	android:name
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:22:13-52
+	android:value
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:23:13-49
+meta-data#com.parse.CLIENT_KEY
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:24:9-26:56
+	android:name
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:25:13-48
+	android:value
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:26:13-53
+activity#com.parse.starter.MainActivity
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:28:9-30:48
+	android:label
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:29:13-41
+activity#com.parse.starter.QuestionActivity
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:31:9-32:65
+	android:theme
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:31:19-51
+activity#com.parse.starter.AnswerActivity
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:34:9-102
+	android:theme
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:34:50-100
+	android:name
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:34:19-49
+activity#com.parse.starter.StartActivity
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:35:9-43:20
+	android:theme
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:36:13-63
+	android:name
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:35:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:40:27-74
+activity#com.parse.starter.ScoreActivity
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:44:9-51
+	android:name
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:44:19-48
+activity#com.parse.starter.SelectActivity
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:45:9-102
+	android:theme
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:45:50-100
+	android:name
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:45:19-49
+activity#com.parse.starter.SettingActivity
+ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:46:9-62
+	android:name
+		ADDED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml:46:19-50
+uses-sdk
+INJECTED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.android.support/design/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/StudioProjects/HistNippon/histnippon/src/main/AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.1.0] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:22:13-58
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] /Users/user/StudioProjects/HistNippon/histnippon/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:23:13-66
